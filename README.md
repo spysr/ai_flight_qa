@@ -77,7 +77,7 @@ python -m streamlit run flight_schedule_qa_ui.py
 
 📜 License
 
-This project is licensed under GO-MMT
+This project is licensed under M
 
 💬 Need Help?
 
